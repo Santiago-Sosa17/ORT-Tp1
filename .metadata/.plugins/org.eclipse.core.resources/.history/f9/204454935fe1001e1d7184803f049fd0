@@ -1,0 +1,20 @@
+package practicando;
+
+public class practica {
+	public static void main(String[] args) {
+		System.out.println("Boenas");
+		int num1 = 36;
+		int num2 = 8;
+		int num3 = 10;
+		int resultado = num1 / (num2 + num3);
+		System.out.println(resultado);
+	    if (15 > 8) {
+	    System.out.println("Si");
+	    }else{ 
+	    	System.out.println("No");
+	    }
+	}
+	}
+	    
+	
+
